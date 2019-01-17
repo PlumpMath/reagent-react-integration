@@ -2,6 +2,8 @@
 
 _WARNING: This won't be easy, you are about to marry together two separate realms._
 
+**Or use [shadow-cljs](https://github.com/thheller/reagent-react-integration/tree/shadow-cljs)**
+
 ### What is it trying to achieve?
 
 You want to start gradually using ClojureScript/Reagent in an existing JavaScript/React project.
